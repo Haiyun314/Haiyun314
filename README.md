@@ -17,7 +17,7 @@ Here are some of the projects I've worked on:
 
 ### **Image Processing**  
 - I worked on some mathematical optimization for image processing tasks like segmentation and denoising. The results weren’t as good as what CNNs can do, but the ideas were still pretty interesting!  
-- [GitHub Repository Link](https://github.com/Haiyun314/Image_processing)
+- [Mathematical Image Processing](https://github.com/Haiyun314/Image_processing)
 
 ### **PINN Model for Navier Stokes Equations**  
 - Built a **PINN model** using **TensorFlow** to solve time-dependent **Navier Stokes Equations**.  
