@@ -1,16 +1,30 @@
-## Hi there 👋
+# Haiyun - Computational & Applied Mathematics 
 
-<!--
-**Haiyun314/Haiyun314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! I'm Haiyun
 
-Here are some ideas to get you started:
+I am a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, with a background in **Mathematics** and **Applied Mathematics**. I specialize in **Modeling and Optimization** and have a strong interest in **Machine Learning**, **Computer Vision**, and **Numerical Methods**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+
+- **Languages**: Python, C++, SQL  
+- **Tools**: Git, Linux, PyCharm, VS Code  
+- **Libraries**: OpenCV, NumPy, Pandas, Matplotlib, TensorFlow, Keras, SciPy  
+- **Techniques**: PDEs, Finite Element Method (FEM), Finite Difference Method (FDM), Machine Learning (ML), Deep Learning (DL)
+
+## 📂 Projects
+
+Here are some of the projects I've worked on:
+
+### **Supercomputer Optimization Project**  
+- Worked on mathematical optimization for image processing tasks in a high-performance computing (HPC) environment.  
+- [GitHub Repository Link](https://github.com/Haiyun314/Image_processing)  
+
+### **PINN Model for Navier Stokes Equations**  
+- Built a **PINN model** using **TensorFlow** to solve time-dependent **Navier Stokes Equations**.  
+- [GitHub Repository Link](https://github.com/Haiyun314/PINN-2dNSEs)
+
+### **Non-Linear Optimization**  
+- Applied optimization techniques to solve non-linear problems.  
+- [GitHub Repository Link](https://github.com/Haiyun314/NonLinear_Optimization)
+
+Feel free to check out my repositories and explore my work!
