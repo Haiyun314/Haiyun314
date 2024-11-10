@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Haiyun
 
-I am a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, with a background in **Mathematics** and **Applied Mathematics**. I specialize in **Modeling and Optimization** and have a strong interest in **Machine Learning**, **Computer Vision**, and **Numerical Methods**.
+I’m a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, with a background in **Mathematics** and **Applied Mathematics**. I specialize in **Modeling and Optimization**, and I’m passionate about **Machine Learning**, **Computer Vision**, and **Numerical Methods**.
 
 ## 🛠 Skills & Tools
 
@@ -15,16 +15,16 @@ I am a **Computational and Applied Mathematics Master's** student at **Friedrich
 
 Here are some of the projects I've worked on:
 
-### **Supercomputer Optimization Project**  
-- Worked on mathematical optimization for image processing tasks in a high-performance computing (HPC) environment.  
-- [GitHub Repository Link](https://github.com/Haiyun314/Image_processing)  
+### **Image Processing**  
+- I worked on some mathematical optimization for image processing tasks like segmentation and denoising. The results weren’t as good as what CNNs can do, but the ideas were still pretty interesting!  
+- [GitHub Repository Link](https://github.com/Haiyun314/Image_processing)
 
 ### **PINN Model for Navier Stokes Equations**  
 - Built a **PINN model** using **TensorFlow** to solve time-dependent **Navier Stokes Equations**.  
-- [GitHub Repository Link](https://github.com/Haiyun314/PINN-2dNSEs)
+- [PINN-2dNSEs](https://github.com/Haiyun314/PINN-2dNSEs)
 
 ### **Non-Linear Optimization**  
 - Applied optimization techniques to solve non-linear problems.  
-- [GitHub Repository Link](https://github.com/Haiyun314/NonLinear_Optimization)
+- [NonLinear_Optimization](https://github.com/Haiyun314/NonLinear_Optimization)
 
 Feel free to check out my repositories and explore my work!
