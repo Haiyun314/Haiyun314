@@ -1,6 +1,10 @@
-# Haiyun - Computational & Applied Mathematics 
+# Haiyun - Computational & Applied Mathematics
 
 ## 👋 Hi there! I'm Haiyun
+
+Since we’re meeting, why not enjoy a digital donut before we dive into more details? (Although, there’s still a little issue with the image I’m trying to figure out—don’t know why yet!)
+
+<img src="results/torus_animation.gif" width="500" height="500">
 
 I’m a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, with a background in **Mathematics** and **Applied Mathematics**. I specialize in **Modeling and Optimization**, and I’m passionate about **Machine Learning**, **Computer Vision**, and **Numerical Methods**.
 
@@ -16,7 +20,7 @@ I’m a **Computational and Applied Mathematics Master's** student at **Friedric
 Here are some of the projects I've worked on:
 
 ### **Image Processing**  
-- I worked on some mathematical optimization for image processing tasks like segmentation and denoising. The results weren’t as good as what CNNs can do, but the ideas were still pretty interesting!  
+- I worked on mathematical optimization for image processing tasks like segmentation and denoising. The results weren’t as good as what CNNs can achieve, but the ideas were still pretty interesting!  
 - [Mathematical Image Processing](https://github.com/Haiyun314/Image_processing)
 
 ### **PINN Model for Navier Stokes Equations**  
