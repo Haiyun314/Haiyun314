@@ -2,7 +2,6 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-from mpl_toolkits.mplot3d import Axes3D
 
 # game of life (rules)
 # Any live cell with fewer than two live neighbors dies (underpopulation).
@@ -30,9 +29,7 @@ y = (R + r * np.cos(2 * np.pi * v)) * np.sin(2 * np.pi * u)
 z = r * np.sin(2 * np.pi * v)
 
 
-fig = plt.figure(figsize=(4, 4))
-ax = fig.add_subplot(111, projection='3d')
-
+fig, ax = plt.subplots(1, 2, figsize=(8, 4), subplot_kw={'projection': '3d'})
 
 def update():
     global domain
@@ -50,8 +47,10 @@ def update():
 
 
 def evol(frame):
-    ax.cla()
-    ax.plot_surface(x, y, z, cmap='hot_r')
+    ax[0].cla()
+    ax[1].cla()
+
+    ax[1].plot_surface(x, y, z, cmap='hot_r')
     #project the 2d game of life to 3d donut
     cur = update()
     mask = cur == 1
@@ -62,17 +61,19 @@ def evol(frame):
     z_p = z * cur
     z_p = z_p[mask]
 
-    ax.scatter(x_p, y_p, z_p, color = 'y', s=5)
-    # Labels and title
-    ax.set_axis_off()
+    ax[1].scatter(x_p, y_p, z_p, color = 'y', s=1)
+    ax[0].scatter(x_p, y_p, z_p, color = 'y', s=1)
 
-    ax.set_xlabel('X')
-    ax.set_ylabel('Y')
-    ax.set_zlabel('Z')
-    ax.set_title("Play game of life on Donut")
+    # Labels and title
+    ax[0].set_axis_off()
+    ax[1].set_axis_off()
+
+    ax[0].set_title("Play game of life on Donut without Donut")
+    ax[1].set_title("Play game of life on Donut")
 
 ani = FuncAnimation(fig, evol, frames= 20)
 image_path = os.path.abspath(os.path.join(root_path, 'results', 'torus_animation.gif'))
 ani.save(image_path, writer='pillow')
 
 
+plt.show()

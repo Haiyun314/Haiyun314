@@ -4,7 +4,7 @@
 
 Since we’re meeting, why not enjoy a digital donut before we dive into more details? (Although, there’s still a little issue with the image I’m trying to figure out—don’t know why yet!)
 
-<img src="results/torus_animation.gif" width="500" height="500">
+<img src="results/torus_animation.gif" width="800" height="400">
 
 I’m a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, with a background in **Mathematics** and **Applied Mathematics**. I specialize in **Modeling and Optimization**, and I’m passionate about **Machine Learning**, **Computer Vision**, and **Numerical Methods**.
 
