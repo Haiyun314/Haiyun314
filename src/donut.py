@@ -12,9 +12,8 @@ from matplotlib.animation import FuncAnimation
 root_path = os.path.join(os.path.abspath(__file__), os.pardir, os.pardir)
 
 grid = 100
-domain = np.round(np.random.randint(0, 7, size= (grid, grid))/10)
-
-
+domain = np.round(np.random.randint(0, 57, size= (grid, grid))/100)  # initialize active points
+print(np.sum(domain))
 
 # Create a meshgrid for the 2D plane (u, v)
 u = np.linspace(0, 1, grid)
@@ -30,8 +29,15 @@ z = r * np.sin(2 * np.pi * v)
 
 
 fig, ax = plt.subplots(1, 2, figsize=(8, 4), subplot_kw={'projection': '3d'})
+# Labels and titles
+ax[0].set_axis_off()
+ax[1].set_axis_off()
+
+ax[0].set_title("Play game of life on Donut without Donut")
+ax[1].set_title("Play game of life on Donut")
 
 def update():
+    # game of life
     global domain
     reset_domain = domain.copy()
     for i in range(grid):
@@ -50,7 +56,6 @@ def evol(frame):
     ax[0].cla()
     ax[1].cla()
 
-    ax[1].plot_surface(x, y, z, cmap='hot_r')
     #project the 2d game of life to 3d donut
     cur = update()
     mask = cur == 1
@@ -61,19 +66,24 @@ def evol(frame):
     z_p = z * cur
     z_p = z_p[mask]
 
-    ax[1].scatter(x_p, y_p, z_p, color = 'y', s=1)
-    ax[0].scatter(x_p, y_p, z_p, color = 'y', s=1)
+    # To address rendering issues caused by overlapping points, we apply a slight shift along the z-axis.
+    z_p = z_p + np.sign(z_p)*0.01 
 
-    # Labels and title
+    ax[0].scatter(x_p, y_p, z_p, color = 'y', s=1)
+    ax[1].plot_surface(x, y, z, cmap='hot_r')
+    ax[1].scatter(x_p, y_p, z_p, color = 'y', s=1)
+
+    # Labels and titles
     ax[0].set_axis_off()
     ax[1].set_axis_off()
 
     ax[0].set_title("Play game of life on Donut without Donut")
     ax[1].set_title("Play game of life on Donut")
 
-ani = FuncAnimation(fig, evol, frames= 20)
+
+ani = FuncAnimation(fig, evol, frames= 40)
 image_path = os.path.abspath(os.path.join(root_path, 'results', 'torus_animation.gif'))
-ani.save(image_path, writer='pillow')
+# ani.save(image_path, writer='pillow')
 
 
 plt.show()

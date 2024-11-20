@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Haiyun
 
-Since we’re meeting, why not enjoy a digital donut before we dive into more details? (Although, there’s still a little issue with the image I’m trying to figure out—don’t know why yet!)
+Since we’re meeting, why not enjoy a digital donut before we dive into more details? 
 
 <img src="results/torus_animation.gif" width="800" height="400">
 
