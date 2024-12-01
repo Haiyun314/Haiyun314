@@ -27,6 +27,10 @@ Here are some of the projects I've worked on:
 - Built a **PINN model** using **TensorFlow** to solve time-dependent **Navier Stokes Equations**.  
 - [PINN-2dNSEs](https://github.com/Haiyun314/PINN-2dNSEs)
 
+### **PINN Model for Heat Equation**  
+- Built a **PINN model** using **TensorFlow** to solve **Heat Equation**, also include FDM.  
+- [Heat Equation](https://github.com/Haiyun314/intro-control-ml)
+
 ### **Non-Linear Optimization**  
 - Applied optimization techniques to solve non-linear problems.  
 - [NonLinear_Optimization](https://github.com/Haiyun314/NonLinear_Optimization)
