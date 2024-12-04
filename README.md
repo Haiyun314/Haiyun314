@@ -6,12 +6,12 @@ Since we’re meeting, why not enjoy a digital donut before we dive into more de
 
 <img src="results/torus_animation.gif" width="800" height="400">
 
-I’m a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, with a background in **Mathematics** and **Applied Mathematics**. I specialize in **Modeling and Optimization**, and I’m passionate about **Machine Learning**, **Computer Vision**, **Robotic** and **Numerical Methods**.
+I’m a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**, with a background in **Mathematics** and **Applied Mathematics**. I specialize in **Modeling and Optimization**, and I’m passionate about **Machine Learning**, **Computer Vision**, **Robotic Simulation** and **Numerical Methods**.
 
 ## 🛠 Skills & Tools
 
 - **Languages**: Python, C++, SQL  
-- **Tools**: Git, Linux, PyCharm, VS Code  
+- **Tools**: Git, Linux, PyCharm, VS Code, Webots  
 - **Libraries**: OpenCV, NumPy, Pandas, Matplotlib, TensorFlow, Keras, SciPy  
 - **Techniques**: PDEs, Finite Element Method (FEM), Finite Difference Method (FDM), Machine Learning (ML), Deep Learning (DL)
 
