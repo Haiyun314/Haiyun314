@@ -35,4 +35,8 @@ Here are some of the projects I've worked on:
 - Applied optimization techniques to solve non-linear problems.  
 - [NonLinear_Optimization](https://github.com/Haiyun314/NonLinear_Optimization)
 
+### **Robotics**
+- A starting point for simulating and controlling robots with Webots. Features a balance system and a car with a camera for vision tasks.
+- [Robot and Balance system](https://github.com/Haiyun314/Robotics)
+
 Feel free to check out my repositories and explore my work!
