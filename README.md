@@ -39,4 +39,9 @@ Here are some of the projects I've worked on:
 - A starting point for simulating and controlling robots with Webots. Features a balance system and a car with a camera for vision tasks.
 - [Robot and Balance system](https://github.com/Haiyun314/Robotics)
 
+### **Just-For-Fun**
+- Here’s a collection of fun projects—some might be failed experiments, while some result in interesting creations.
+- [Just-For-Fun](https://github.com/Haiyun314/Just_For_Fun)
+
 Feel free to check out my repositories and explore my work!
+

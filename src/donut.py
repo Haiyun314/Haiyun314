@@ -67,7 +67,7 @@ def evol(frame):
     z_p = z_p[mask]
 
     # To address rendering issues caused by overlapping points, we apply a slight shift along the z-axis.
-    z_p = z_p + np.sign(z_p)*0.01 
+    z_p += np.sign(z_p)*0.01 
 
     ax[0].scatter(x_p, y_p, z_p, color = 'y', s=1)
     ax[1].plot_surface(x, y, z, cmap='hot_r')
