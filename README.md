@@ -2,10 +2,6 @@
 
 ## 👋 Hi there! I'm Haiyun
 
-Since we’re meeting, why not enjoy a digital donut before we dive into more details? 
-
-<img src="results/torus_animation.gif" width="800" height="400">
-
 I’m a **Computational and Applied Mathematics Master's** student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**. I specialize in **Modeling and Optimization**, and I’m passionate about **Machine Learning**, **Computer Vision**, **Robotic Simulation** and **Numerical Methods**.
 
 ## 🛠 Skills & Tools
