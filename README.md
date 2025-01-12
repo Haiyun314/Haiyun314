@@ -31,10 +31,6 @@ Here are some of the projects I've worked on:
 - Built a **PINN model** using **TensorFlow** to solve **Heat Equation**, also include FDM, Fourier method.  
 - [Heat Equation](https://github.com/Haiyun314/intro-control-ml)
 
-### **Non-Linear Optimization**  
-- Applied optimization techniques to solve non-linear problems.  
-- [NonLinear_Optimization](https://github.com/Haiyun314/NonLinear_Optimization)
-
 ### **Robotics**
 - A starting point for simulating and controlling robots with Webots. Features a balance system and a car with a camera for vision tasks.
 - [Robot and Balance system](https://github.com/Haiyun314/Robotics)
