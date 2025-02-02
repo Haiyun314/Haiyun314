@@ -17,7 +17,7 @@ Here are some of the projects I've worked on:
 
 ### **PINNs**  
 - [PINN-2dNSEs](https://github.com/Haiyun314/PINN-2dNSEs): Built a **PINN model** using **TensorFlow** to solve time-dependent **Navier Stokes Equations**.  
-- [Heat Equation](https://github.com/Haiyun314/intro-control-ml): Built a **PINN model** using **TensorFlow** to solve **Heat Equation**, also include FDM, Fourier method.  
+- [Heat Equation](https://github.com/Haiyun314/intro-control-ml): Built a **PINN model** using **TensorFlow** to solve **Heat Equation**, also include FDM, Fourier method for comparison.  
 
 ### **Just-For-Fun**
 - [Just-For-Fun](https://github.com/Haiyun314/Just_For_Fun): Here’s a collection of fun projects—some might be failed experiments, while some result in interesting creations.
