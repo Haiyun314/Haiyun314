@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 - [Heat Equation](https://github.com/Haiyun314/intro-control-ml): Built a **PINN model** using **TensorFlow** to solve **Heat Equation**, also include FDM, Fourier method for comparison.  
 
 ### **Just-For-Fun**
-- [Just-For-Fun](https://github.com/Haiyun314/Just_For_Fun): Here’s a collection of fun projects—some might be failed experiments, while some result in interesting creations.
+- [Just-For-Fun](https://github.com/Haiyun314/Just_For_Fun): Here’s a collection of fun projects—some might be failed experiments, while some result in interesting creations. **Dynamic Mode Decomposition**, **Fourier method**, **RCNN**
 
 ### **Image Processing**  
 - [Mathematical Image Processing](https://github.com/Haiyun314/Image_processing): I worked on mathematical optimization for image processing tasks like segmentation and denoising. The results weren’t as good as what CNNs can achieve, but the ideas were still pretty interesting!  
