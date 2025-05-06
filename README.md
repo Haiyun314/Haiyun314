@@ -15,6 +15,15 @@ I’m a **Computational and Applied Mathematics Master's** student at **Friedric
 
 Here are some of the projects I've worked on:
 
+### **Master's Thesis Preliminary Introduction**
+- **Title**: [A Hybrid Approach for Balancing a Two-Wheeled Humanoid Robot](https://github.com/Haiyun314/master_thesis)  
+- **Description**:  
+  This project presents a hybrid control framework aimed at achieving robust balance control for a two-wheeled humanoid robot. The proposed system integrates:  
+  - A classical Proportional-Integral-Derivative (PID) controller for maintaining low-level stability,  
+  - A customized action-mapping strategy for adjusting hip and knee joints to navigate uneven terrain,  
+  - A reinforcement learning (RL) policy, trained using Proximal Policy Optimization (PPO), to adaptively fine-tune control decisions in dynamic and uncertain environments.  
+
+
 ### **PINNs**  
 - [PINN-2dNSEs](https://github.com/Haiyun314/PINN-2dNSEs): Built a **PINN model** using **TensorFlow** to solve time-dependent **Navier Stokes Equations**.  
 - [Heat Equation](https://github.com/Haiyun314/intro-control-ml): Built a **PINN model** using **TensorFlow** to solve **Heat Equation**, also include FDM, Fourier method for comparison.  
