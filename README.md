@@ -15,6 +15,9 @@ I’m a **Computational and Applied Mathematics Master's** student at **Friedric
 
 Here are some of the projects I've worked on:
 
+### **Study Notes**
+- [Study Notes](https://github.com/Haiyun314/Study_Notes): Ros2, Docker, RL ...
+
 ### **Master's Thesis Preliminary Introduction**
 - **Title**: [A Hybrid Approach for Balancing a Two-Wheeled Humanoid Robot](https://github.com/Haiyun314/master_thesis)  
 - **Description**:  
@@ -30,9 +33,6 @@ Here are some of the projects I've worked on:
 ### **Interesting**
 - [Just-For-Fun](https://github.com/Haiyun314/Just_For_Fun): Here’s a collection of fun projects—some might be failed experiments, while some result in interesting creations. **Dynamic Mode Decomposition**, **Fourier method**, **RCNN** 
 - [Mathematical Image Processing](https://github.com/Haiyun314/Image_processing): I worked on mathematical optimization for image processing tasks like segmentation and denoising. The results weren’t as good as what CNNs can achieve, but the ideas were still pretty interesting!  
-
-### **Study Notes**
-- [Study Notes](https://github.com/Haiyun314/Study_Notes): Ros2, Docker, RL ...
 
 Feel free to check out my repositories and explore my work!
 
