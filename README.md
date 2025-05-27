@@ -16,7 +16,7 @@ I’m a **Computational and Applied Mathematics Master's** student at **Friedric
 Here are some of the projects I've worked on:
 
 ### **Study Notes**
-- [Study Notes](https://github.com/Haiyun314/Study_Notes): Ros2, Docker, RL ...
+- [Study Notes](https://github.com/Haiyun314/Study_Notes): This repository contains comprehensive study notes and project materials covering key topics in robotics, control, reinforcement learning, and essential tech tools for modern development workflows.
 
 ### **Master's Thesis Preliminary Introduction**
 - **Title**: [A Hybrid Approach for Balancing a Two-Wheeled Humanoid Robot](https://github.com/Haiyun314/master_thesis)  
