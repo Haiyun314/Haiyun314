@@ -17,14 +17,11 @@ Here are some of the projects I've worked on:
 
 ### **Study Notes**
 - [Study Notes](https://github.com/Haiyun314/Study_Notes): This repository contains comprehensive study notes and project materials covering key topics in robotics, control, reinforcement learning, and essential tech tools for modern development workflows.
+- [A Hybrid Approach for Balancing a Two-Wheeled Humanoid Robot](https://github.com/Haiyun314/master_thesis)  
+  This project presents a hybrid control framework aimed at achieving robust balance control for a two-wheeled humanoid robot. 
 
-### **Master's Thesis Preliminary Introduction**
-- **Title**: [A Hybrid Approach for Balancing a Two-Wheeled Humanoid Robot](https://github.com/Haiyun314/master_thesis)  
-- **Description**:  
-  This project presents a hybrid control framework aimed at achieving robust balance control for a two-wheeled humanoid robot. The proposed system integrates:  
-  - A classical Proportional-Integral-Derivative (PID) controller for maintaining low-level stability,  
-  - A customized action-mapping strategy for adjusting hip and knee joints to navigate uneven terrain,  
-  - A reinforcement learning (RL) policy, trained using Proximal Policy Optimization (PPO), to adaptively fine-tune control decisions in dynamic and uncertain environments.  
+### **Visioncar-Ros2**
+- [Visioncar-Ros2](https://github.com/Haiyun314/Visioncar-Ros2): A ROS 2-based simulation of a 4-wheeled car using a front camera to follow a visual path in Gazebo. Implements basic control strategies and sensor integration.
 
 ### **PINNs**  
 - [PINN-2dNSEs](https://github.com/Haiyun314/PINN-2dNSEs): Built a **PINN model** using **TensorFlow** to solve time-dependent **Navier Stokes Equations**.  
